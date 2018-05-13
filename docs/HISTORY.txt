@@ -4,6 +4,7 @@ Changelog
 0.5 (unreleased)
 ~~~~~~~~~~~~~~~~
 
+    * Added maintainer name and email setuptools metadata [macagua]
     * Added more strings classifiers items for this package [macagua]
     * Added preview theme file and updated Diazo manifest file theme [macagua]
     * Presentation View is not broken anymore. [tamosauskas]
