@@ -80,12 +80,21 @@ Credits
 
     * Thiago Tamosauskas (thiago at simplesconsultoria dot com dot br) - CSS, 
       Accessibility and Q&A.
-      
+
     * Andre Nogueira (andre at simplesconsultoria dot com dot br) - Conception 
       and prototype.
-    
+
     * Davi Lima (davi at simplesconsultoria dot com dot br) - Translation,
       Fixes.
+
+
+
+Amazing contributions
+---------------------
+
+    * Leonardo J. Caballero G. aka macagua (leonardocaballero at gmail dot com).
+
+You can find an updated list of package contributors on https://github.com/simplesconsultoria/beyondskins.responsive/contributors
 
 .. _`plone.app.theming`: http://pypi.python.org/pypi/plone.app.theming
 .. _`Plone 4.1`: http://pypi.python.org/pypi/Plone/4.1rc2
